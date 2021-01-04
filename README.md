@@ -1,1 +1,1 @@
-# color-flipper
+# color-flipper : A basic web app which flips color made in HTML, CSS and Javascript.
